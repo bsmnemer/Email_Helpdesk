@@ -1,3 +1,7 @@
-[Updater]
+;aiu;
+
+[Update]
+Name=Email Judicial Helpdesk
 Version=1.2.0
 URL=https://intra.stage.jito.ca/apps/EmailJudicialHelpdesk/EmailJudicialHelpdesk_Setup_1.2.0.exe
+Size=0
