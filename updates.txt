@@ -4,3 +4,4 @@
 Name=Email Judicial Helpdesk
 Version=1.2.0
 URL=https://intra.stage.jito.ca/wp-content/apps/EmailJudicialHelpdesk/EmailJudicialHelpdesk_Setup_1.2.0.exe
+Size=8670000
